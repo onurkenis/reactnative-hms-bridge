@@ -14,7 +14,7 @@ If you are having issues, you can follow [getting started.](https://facebook.git
 ## Running the application
 
 ```sh
-cd reactnative-hms-sample
+cd reactnative-hms-bridge
 npx react-native run-android --variant=HmsDebug
 ```
 For other variants, check productFlavors in `app/build.gradle`  
