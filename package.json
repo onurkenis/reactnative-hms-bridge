@@ -11,9 +11,9 @@
     "commit": "git-cz"
   },
   "dependencies": {
-    "appcenter": "2.6.1",
-    "appcenter-analytics": "2.6.1",
-    "appcenter-crashes": "2.6.1",
+    "appcenter": "4.4.5",
+    "appcenter-analytics": "4.4.5",
+    "appcenter-crashes": "4.4.5",
     "react": "16.9.0",
     "react-native": "0.61.5"
   },
